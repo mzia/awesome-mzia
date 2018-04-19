@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "Threat model with dragon",
+    "owner": "Mzia",
+    "description": "Infrastructure ec2"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Mzia"
+  }
+}
